@@ -1,0 +1,17 @@
+sort1 uses: bubble sort
+random 9.659s
+sorted 1.907s
+
+How do you know?: it is quickest for sorted array
+
+sort2 uses: merge sort
+random 1.432s
+sorted 3.735s
+
+How do you know?: it is quickest for unsorted array
+
+sort3 uses: selection sort
+random 3.941s
+sorted 6.410s
+
+How do you know?: it is slowest for sorted array
